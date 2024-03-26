@@ -4,6 +4,8 @@
 Devin AI is an advanced artificial intelligence platform designed to revolutionize various aspects of business operations, from customer service to data analysis. Built with cutting-edge technologies and a focus on innovation, Devin AI empowers businesses to leverage the power of AI to streamline processes, improve efficiency, and drive growth.
 
 ## Features
+![hrdX1BsUBq7DkGJCCd](https://github.com/AmanMehta199816/Devin-AI/assets/96304523/b350dcd7-6f80-4358-a784-64adf2eef3a9)
+
 
 - **Natural Language Processing**: Devin AI utilizes state-of-the-art natural language processing (NLP) algorithms to understand and interpret human language, enabling seamless communication and interaction.
   
